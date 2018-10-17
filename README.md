@@ -51,7 +51,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+The greatest challenge during my work process is to get the time machine working. 
 
 ## License
 

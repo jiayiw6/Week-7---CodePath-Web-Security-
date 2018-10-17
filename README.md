@@ -35,7 +35,7 @@ Time spent: 5 hours spent in total
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-    - Step 1: Create a post with ancher that has JavaScript code in Text View. (For instance: <a href="[caption code=">]</a><a title=" onmouseover=alert('test') ">link</a>)
+    - Step 1: Create a post with ancher that has JavaScript code in Text View. (For instance: \<a href\="[caption code=">]\</a><a title=" onmouseover=alert('666') ">link</a>)
     - Step 2: In Page View, when hover over the link, the JavaScript code will be executed.
 
 ## Assets

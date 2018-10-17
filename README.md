@@ -11,7 +11,7 @@ Time spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS) Vulnerability
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/jiayiw6/Week-7-CodePath-Web-Security/blob/master/gif1.gif
   - [ ] Steps to recreate:
     - Step 1: Create a file with the following name: File_Name<JS_Code>; JS_Code is the Javascript code to execute.
     - Step 2: Make the size of the file to be at least 2MB.
@@ -23,7 +23,7 @@ Time spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS) Vulnerability
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/jiayiw6/Week-7-CodePath-Web-Security/blob/master/gif2.gif
   - [ ] Steps to recreate: 
     - Step 1: Embed a youtube link (with JavaScript) in "edit a post" in Text View.
     - Step 2: Switch to Visual View and the JavaScript code should execute.
@@ -33,9 +33,9 @@ Time spent: 5 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS) Vulnerability
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/jiayiw6/Week-7-CodePath-Web-Security/blob/master/gif3.gif
   - [ ] Steps to recreate: 
-    - Step 1: Create a post with ancher that has JavaScript code in Text View. (For instance: \<a href\="[caption code=">]\</a><a title=" onmouseover=alert('666') ">link</a>)
+    - Step 1: Create a post with ancher that has JavaScript code in Text View. (For instance: \<a href\="[caption code=">]\</a\>\<a title\=\" onmouseover\=alert\(\'666\'\) \"\>link\<\/a>\)
     - Step 2: In Page View, when hover over the link, the JavaScript code will be executed.
 
 ## Assets

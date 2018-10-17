@@ -28,7 +28,7 @@ Time spent: 5 hours spent in total
     - Step 1: Embed a youtube link (with JavaScript) in "edit a post" in Text View.
     - Step 2: Switch to Visual View and the JavaScript code should execute.
     
-1. XSS: Mouse Over
+3. XSS: Mouse Over Link
   - [ ] Summary: 
     - Vulnerability types: Cross-Site Scripting (XSS) Vulnerability
     - Tested in version: 4.2
